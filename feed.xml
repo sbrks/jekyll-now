@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://sbrks.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://sbrks.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sbrks.github.io/" rel="alternate" type="text/html" /><updated>2016-11-25T17:51:27-08:00</updated><id>http://sbrks.github.io//</id><title type="html">SSB.nyc</title><subtitle>Writer &amp; Web Developer</subtitle><entry><title type="html">Words</title><link href="http://sbrks.github.io/words/" rel="alternate" type="text/html" title="Words" /><published>2016-11-22T00:00:00-08:00</published><updated>2016-11-22T00:00:00-08:00</updated><id>http://sbrks.github.io/words</id><content type="html" xml:base="http://sbrks.github.io/words/">&lt;p&gt;Donald Barthelme on words&lt;/p&gt;
+
+&lt;p&gt;Testing the update from rake blog:publish&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“The combinatorial agility of words, the exponential generation of meaning once they’re allowed to go to bed together, allows the writer to surprise himself, makes art possible, reveals how much of Being we haven’t yet encountered.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;He continues:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“It could be argued that computers can do this sort of thing for us, with critic-computers monitoring their outpout. When computers learn how to make jokes, artists will be in serious trouble. But artists will respond in such a way as to make art impossible for the computer. They will redefine art to take into account (that is, to exclude) technology–photography’s impact upon painting and painting’s brilliant response being a clear and comparatively recent example.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Later:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“Art is a true account of the activity of mind. Because consciousness…is always conscious &lt;em&gt;of&lt;/em&gt; something, art thinks ever of the world, cannot not think of the world, could not turn its back on the world even if it wished to.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;</content><category term="Language" /><category term="words" /><category term="language" /><category term="art" /><summary type="html">Donald Barthelme on words</summary></entry><entry><title type="html">AI and Gender</title><link href="http://sbrks.github.io/genderandai/" rel="alternate" type="text/html" title="AI and Gender" /><published>2016-11-14T00:00:00-08:00</published><updated>2016-11-14T00:00:00-08:00</updated><id>http://sbrks.github.io/genderandai</id><content type="html" xml:base="http://sbrks.github.io/genderandai/">&lt;p&gt;DRAFT&lt;/p&gt;
+
+&lt;p&gt;There is a new paradigm for how we interact with technology that will replace (or at least supplement) internet and mobile device browsing : intelligent assistants. Intelligent machines that recognize your voice, with whom you can speak or send messages. They will be able to learn your preferences, feed you information, play you music, send you reminders, book dinner and travel reservations, and more.&lt;/p&gt;</content><category term="ai" /><category term="gender" /><category term="future" /><category term="intelligent assistants" /><summary type="html">DRAFT</summary></entry><entry><title type="html">Programming for Non-Programmers</title><link href="http://sbrks.github.io/pfnp/" rel="alternate" type="text/html" title="Programming for Non-Programmers" /><published>2016-11-13T00:00:00-08:00</published><updated>2016-11-13T00:00:00-08:00</updated><id>http://sbrks.github.io/pfnp</id><content type="html" xml:base="http://sbrks.github.io/pfnp/">&lt;p&gt;Since learning to code, I’ve encountered dozens of concepts and tools that make the job of coding easier and more effective. But many of these concepts and tools could also be used by non-programmers or to achieve non-programming tasks, and the only reason they aren’t is because a made up wall has been built up around them, and they are falsely considered within the domain of only the “technical” few.&lt;/p&gt;
+
+&lt;p&gt;To address this, I am going to cover a few of those concepts in this blog. I want to provide how-to guides for applying programming concepts and using programming tools to achieve non-programming goals. I’ve noticed a divide in the working world between those who can code and those who cannot. The most prominent manifestation of this is in the job search in Silicon Valley, frequently divided between “technical” and “non-technical” jobs. This, however, is a false dichotomy. The reality is that many non-technical jobs require a signicant amount of technical know-how. You may not be asked to write code, but in my experience, even in a standard office job you are expected to know–on day one–exactly how to navigate a file system, download, upload, transfer files (FTP or otherwise), and communicate online (which requires a different skill set from communicating offline). In other words, there are a great deal of technical skills taken for granted in the average modern-day office worker, and there are skills lumped into the “technical” that are easy to learn and wildly useful, even for “non-technical” tasks.&lt;/p&gt;
+
+&lt;p&gt;Over the next few posts I will cover some of these concepts; the first will be how to use the command line. Before I learned how to code, I learned how to use Mac Terminal, and it’s made not only the task of coding but also the more general task of using a computer much easier, faster, and more intuitive. I remember fearing the command line before I knew how to use it. And certainly there is a learning curve, but it’s not as steep as one might think, and using the command line will become second nature sooner than you may think, as it has for me.&lt;/p&gt;
+
+&lt;p&gt;For this series, I will cover the minimum effective dose of each concept: enough to cover at least 80% of what it can do for the average user, and enough that will maximize your ability to, for example, navigate your computer and file system. If you are interested in going deeper, there are plenty of tutorials online that can take take you there, but my goal is to cover enough to maximize utility and minimize time spent learning for the average user. Stay tuned!&lt;/p&gt;</content><category term="Programming" /><category term="command line" /><category term="terminal" /><category term="code" /><category term="programming" /><category term="work" /><summary type="html">Since learning to code, I’ve encountered dozens of concepts and tools that make the job of coding easier and more effective. But many of these concepts and tools could also be used by non-programmers or to achieve non-programming tasks, and the only reason they aren’t is because a made up wall has been built up around them, and they are falsely considered within the domain of only the “technical” few.</summary></entry><entry><title type="html">Wordpress to Jekyll</title><link href="http://sbrks.github.io/jekyll/" rel="alternate" type="text/html" title="Wordpress to Jekyll" /><published>2016-11-12T00:00:00-08:00</published><updated>2016-11-12T00:00:00-08:00</updated><id>http://sbrks.github.io/jekyll</id><content type="html" xml:base="http://sbrks.github.io/jekyll/">&lt;h1 id=&quot;how-to-bring-your-wordpress-site-to-jekyll&quot;&gt;How To Bring Your Wordpress Site to Jekyll&lt;/h1&gt;
+
+&lt;p&gt;Hello, world (again). I grew increasingly unsatisfied with the WYSIWYG-iness of Wordpress. I felt locked in to too many gratuitous features, and without the ability to easily customize and control content and design. So I’m moving on over to the more developer-friendly Jekyll for hosting and publishing my blog. And let it be known, I’m already having a lot more fun. I’ll be transferring my old content over here with its original publish date, and then will continue publishing new content as usual.&lt;/p&gt;</content><category term="code" /><category term="blogging" /><summary type="html">How To Bring Your Wordpress Site to Jekyll</summary></entry><entry><title type="html">Navigating Stuckness</title><link href="http://sbrks.github.io/navigatingstuckness/" rel="alternate" type="text/html" title="Navigating Stuckness" /><published>2016-11-01T00:00:00-07:00</published><updated>2016-11-01T00:00:00-07:00</updated><id>http://sbrks.github.io/navigatingstuckness</id><content type="html" xml:base="http://sbrks.github.io/navigatingstuckness/">&lt;p&gt;This is from Jonathan Harris’s insightful, instructive, inspirational essay, &lt;a href=&quot;http://transom.org/2014/jonathan-harris/&quot;&gt;Navigating Unstuckness&lt;/a&gt;. I view it as a guiding principle for my own life, in the decisions I choose to make and the people and things I give my attention to. Like Jonathan, when I was ten I was writing stories and drawing pictures. In a way, this blog is my way to get back to what I was doing then.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;All we have in life is our time. People struggle after success. They hunger for fame, fortune, and power. But in all of these things, the same question exists — what will you do with your time? How do you want to spend your days? As Annie Dillard reminds us, “how we spend our days is, of course, how we spend our lives.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;In life, you will become known for doing what you do. That sounds obvious, but it’s profound. If you want to be known as someone who does a particular thing, then you must start doing that thing immediately. Don’t wait. There is no other way. It probably won’t make you money at first, but do it anyway. Work nights. Work weekends. Sleep less. Whatever you have to do. If you’re lucky enough to know what brings you bliss, then do that thing at once. If you do it well, and for long enough, the world will find ways to repay you.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;This fall, in a toilet stall in Burlington, Vermont, I saw this scrawled on the wall:&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“Don’t ask yourself what the world needs. Ask yourself what makes you come alive. The world needs more people who have come alive.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;If you’re doing something you love, you won’t care what the world thinks, because you’ll love the process anyway. This is one of those truths that we know, but which we can’t seem to stop forgetting.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;In America, success is a word we hear a lot. What does it mean? Is it money, power, fame, love? I like how Bob Dylan defines it: “A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;We have these brief lives, and our only real choice is how we will fill them. Your attention is precious. Don’t squander it. Don’t throw it away. Don’t let companies and products steal it from you. Don’t let advertisers trick you into lusting after things you don’t need. Don’t let the media convince you to covet the lives of celebrities. Own your attention — it’s all you really have.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;In the tradeoff between timeliness and timelessness, choose the latter. The zeitgeist rewards timeliness, but your soul rewards timelessness. Work on things that will last.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Inside each of us is a little ten-year-old child, curious and pure, acting on impulse, not yet caring what other people think. Remember what you were doing at ten, and try to get back to doing that thing, incorporating everything you’ve learned along the way.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can download Navigating Stuckness &lt;a href=&quot;http://newcdn.transom.org/wp-content/uploads/2014/01/JonathanHarris_review_docx.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><category term="Life Advice" /><category term="advice" /><category term="art" /><category term="code" /><category term="work" /><summary type="html">This is from Jonathan Harris’s insightful, instructive, inspirational essay, Navigating Unstuckness. I view it as a guiding principle for my own life, in the decisions I choose to make and the people and things I give my attention to. Like Jonathan, when I was ten I was writing stories and drawing pictures. In a way, this blog is my way to get back to what I was doing then.</summary></entry><entry><title type="html">Big O</title><link href="http://sbrks.github.io/bigo/" rel="alternate" type="text/html" title="Big O" /><published>2016-09-30T00:00:00-07:00</published><updated>2016-09-30T00:00:00-07:00</updated><id>http://sbrks.github.io/bigo</id><content type="html" xml:base="http://sbrks.github.io/bigo/">&lt;p&gt;In computer science, Big O notation (also known as Time/Space Complexity) is used to “classify algorithms by how they respond to changes in input size, such as how the processing time of an algorithm changes as the problem size becomes extremely large.” In other words, Big O is a measure to indicate how efficiently an algorithm performs in its worse case as the data it processes grows. An algorithm that performs well (i.e. quickly, with minimal space requirements) under one set of conditions may perform differently (i.e. worse) under a different set of conditions. Big O attempts to quantify that difference.&lt;/p&gt;
+
+&lt;p&gt;That’s all well and good from a theoretical standpoint, but I wondered how this was actually useful in the daily life of a coder. At the outset, my guess was that, while Big O is theoretical, optimizing a program for Big O would be useful when dealing with issues of scale. Like, for example, when a program initially designed to index and search one public library’s worth of books now needs to do the same for every public library in the state. Here are some other practical reasons for thinking about Big O when coding that I found:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Understanding Big O can help you choose which type of data structure and sort algorithm are useful for your current problem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Writing good programs requires a solid understanding of tradeoffs in design. For example, in one scenario you may be able to afford to take up more memory in exchange for a faster run time. Sometimes you need to take up less memory, and must sacrifice run time to do.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If nothing else, Big O is a common language programmers speak. You may never have to actually quantify Big O, but understanding it will facilitate the exchange of information  and improve communication from programmer to programmer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you have to manipulate a lot of data in memory, it behooves you to optimize your programs to handle the amounts of information you are dealing with in the most efficient way. Optimizing Big O will save you and your users time, which also of course means saving money.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;http://www.perlmonks.org/?node_id=573138
+http://stackoverflow.com/questions/1996457/what-is-the-big-deal-about-big-o-notation-in-computer-science
+http://www.perlmonks.org/?node_id=227909
+http://www.perlmonks.org/?node_id=573208&lt;/p&gt;</content><summary type="html">In computer science, Big O notation (also known as Time/Space Complexity) is used to “classify algorithms by how they respond to changes in input size, such as how the processing time of an algorithm changes as the problem size becomes extremely large.” In other words, Big O is a measure to indicate how efficiently an algorithm performs in its worse case as the data it processes grows. An algorithm that performs well (i.e. quickly, with minimal space requirements) under one set of conditions may perform differently (i.e. worse) under a different set of conditions. Big O attempts to quantify that difference.</summary></entry><entry><title type="html">Hackathons and Decision Making</title><link href="http://sbrks.github.io/decisionmaking/" rel="alternate" type="text/html" title="Hackathons and Decision Making" /><published>2016-09-12T00:00:00-07:00</published><updated>2016-09-12T00:00:00-07:00</updated><id>http://sbrks.github.io/decisionmaking</id><content type="html" xml:base="http://sbrks.github.io/decisionmaking/">&lt;p&gt;I attended an all women’s hackathon at Dev Bootcamp this past weekend. I decided to attend the day before the event, and offered to volunteer during the event so I could do it for free. When it started, I decided to pitch an idea. Then I decided to form a team of fellow engineers who were interested in my idea. I decided not to turn anyone away: anyone who was interested in the idea could join my team. I decided to lead this team in such a way that everyone could contribute, no matter their skill level. I decided to collaborate and delegate work based on my teammates’ individual strengths. I decided to build our project in Rails. I decided to teach how Rails works in the middle of the day, and then I decided to scrap that lesson when most of my teammates started down a time-consuming rabbit hole of dependency installation (Git, Homebrew, RVM, Ruby, Rails, and so on) just to get the project running locally. I decided that time could be better spent elsewhere. I decided what features to focus on and get right for our demo, and which features to table until later. I decided to demo our project in front of a panel of judges and crowd of ~120 at 11 o’clock on a Saturday night.&lt;/p&gt;
+
+&lt;p&gt;I emphasize all of these decisions because I made a lot of them in a 24-hour span, and they were all driven by time constraints. In fact, I’d argue that I was able to make all of these decisions because of these time constraints. Decision-making has been a big intellectual interest of mine lately. Namely, at a cognitive level, how do we make the “best” decision? How is our ability to make a good decision taxed as we attempt to arrive at that decision? How can we reduce or altogether eliminate decision fatigue, the process in which our decisions become worse and worse as we continue to make more of them?&lt;/p&gt;
+
+&lt;p&gt;Decision-making operates differently during a hackathon than a normal day. You can substitute “hackathon” for any deadline-driven event, however. Know how Steve Jobs wore the same thing every day to eliminate the need to decide on an outfit, freeing up his time and mind for other important decisions? I would call that an option constraint: reduce or eliminate the number of options you have to decide from. This is one way to reduce decision fatigue. I would also propose another way: a time constraint. At the hackathon, we had twelve hours from idea pitch to product demo. This was a time constraint, and because of it, I had to make decisions quickly and run with them. There was no use in looking back or wavering; that would detract us from our deadline-driven goal. Time constraints are a boon to the indecisive mind (read: mine).&lt;/p&gt;
+
+&lt;p&gt;This must be why time-oriented planning works better for me than objective-oriented planning. For example, when I plan to go for a run, I make my goal time-based (run for 60 minutes), not distance-based (run six miles). I’m free to cover as much distance as I want during that time, and I’d argue that if you are internally competitive in the way that I am, you end up covering more distance than you would with a proportionally distance-based goal. My internal dialogue is “I’ve got sixty minutes, so I’m going to run as far as I can with it,” rather than “I’ve got to run six miles, let’s see how long this takes me.” The difference is subtle but powerful: with a time constraint, I effectively make myself a better runner than I would with a distance constraint.&lt;/p&gt;
+
+&lt;p&gt;This is also why I love the Pomodoro technique and why I live and die by my Google calendar. By dividing my tasks into blocks of time, and by knowing that at the end of one block of time I must switch to something else, I am much more motivated to get as much done as I can during that time than if I only switched tasks once they were complete. If I have two hours to integrate a feature into an app, for example, I’ll get it done in those two hours. If on the other hand my goal was simply to integrate messaging into an app and switch tasks once it was done (i.e. an objective-oriented deadline, not a time-oriented deadline), I’d get it done, but who knows how long it would take. It could take half an hour, maybe, but it could also take half a day. This is Parkinson’s Law in practice: the amount of time it takes to complete a task swells to the amount of time you have to do it. Without a time constraint, there’s not enough incentive to get it done as efficiently as possible. I’d spend half the time deciding which CSS framework to use, whether to use a tableless model, etc. into infinity. There’s a lot more room for decisions in this framework, which would of course lead to more decision-making, which would lead to increased decision fatigue, which would ultimately lead to less good work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ssb.nyc/blog/wp-content/uploads/2016/09/Screen-Shot-2016-09-12-at-2.34.44-PM-768x489.png&quot; alt=&quot;typical calendar week&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In conclusion: for rapid development and team-building, do a hackathon. For better work (or art or socializing or piano or whatever it is you want to be good at), give yourself a deadline and stick to it&lt;/p&gt;</content><summary type="html">I attended an all women’s hackathon at Dev Bootcamp this past weekend. I decided to attend the day before the event, and offered to volunteer during the event so I could do it for free. When it started, I decided to pitch an idea. Then I decided to form a team of fellow engineers who were interested in my idea. I decided not to turn anyone away: anyone who was interested in the idea could join my team. I decided to lead this team in such a way that everyone could contribute, no matter their skill level. I decided to collaborate and delegate work based on my teammates’ individual strengths. I decided to build our project in Rails. I decided to teach how Rails works in the middle of the day, and then I decided to scrap that lesson when most of my teammates started down a time-consuming rabbit hole of dependency installation (Git, Homebrew, RVM, Ruby, Rails, and so on) just to get the project running locally. I decided that time could be better spent elsewhere. I decided what features to focus on and get right for our demo, and which features to table until later. I decided to demo our project in front of a panel of judges and crowd of ~120 at 11 o’clock on a Saturday night.</summary></entry><entry><title type="html">Goodbye New York</title><link href="http://sbrks.github.io/goodbyenewyork/" rel="alternate" type="text/html" title="Goodbye New York" /><published>2016-04-20T00:00:00-07:00</published><updated>2016-04-20T00:00:00-07:00</updated><id>http://sbrks.github.io/goodbyenewyork</id><content type="html" xml:base="http://sbrks.github.io/goodbyenewyork/">&lt;p&gt;Note: this was originally published as &lt;strong&gt;Goodbye New York or (The Unexpected Virtue of Quitting)&lt;/strong&gt; on Medium on 4/20/16 &lt;a href=&quot;https://medium.com/@sbrks/goodbye-new-york-or-the-unexpected-virtue-of-quitting-7b107c457414#.3bqt3uldi&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Next week, I am leaving New York City and moving to San Francisco. I’ve lived here off and on since graduating in 2010. Before leaving, I wanted to share something I’m not normally open about but that I hope will 1) contextualize and inform, and 2) help — someone, anyone. One in four adults experience mental illness in a given year. This is just one fraction of one story. More stats here: http://www2.nami.org/factsheets/mentalillness_factsheet.pdf.
+A year and a half ago, I came back to New York after dropping out of law school. At the time, I felt supremely lost, way behind people my age, like an enormous failure. I got through 1L and a summer internship at an immigration law clinic, but felt like I had nothing to show for it. The future I spent so long constructing for myself was no longer intact. I no longer knew what I wanted to do, just one thing I didn’t want to do. The previous year until that point, I had been struggling with depression and anxiety in a way I never had before, in a way I hope no one has to (but know many people actually do). It was debilitating. At points, I thought everything was over, that there couldn’t possibly be something on the other side of it. Luckily, it never got so bad that I wasn’t hopeful: hopeful that being in a different place would help me sort things out, hopeful that I could work on myself, that I would meet new people, reconnect with others, and experience a life I felt in control of (to the extent that being in control of a life is even possible). So I left Virginia and came back to New York.
+Luckily, amazingly, it worked out. I did work every day that I was proud of. I met wonderful people. I prioritized my mental and physical health through exercise, meditation, sleep, a healthy diet. Every. Single. Fucking. Day. It took a lot of conscious effort. Exercise, meditate, food, sleep on repeat. It’s been a lot of work. But it worked, and it’s working.
+So before I leave, I want to note a few things I learned well here in NYC this past year and a half:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Quitting is underrated. I quit law school because it hurt to be there, and because I knew in the long run I didn’t want to practice law. Consider the sunk cost fallacy. Consider that life is long, and that no matter who you are or what you’re doing now, 10 years from now you’re still going to be 10 years older. Consider that, if you can, you might as well be doing something you feel is meaningful, in whatever way you define it. Consider that “This isn’t a spotless life. There is much ahead, my immaculate peach.” (Thank you, Cheryl Strayed). I didn’t know what was on the other side of law school, but I’m really glad that I took the leap and found out.&lt;/li&gt;
+  &lt;li&gt;It never hurts to ask. Ask for help, ask someone out, ask for a raise, ask for forgiveness. Whatever it may be, you are the only one who can consistently and reliably advocate for yourself; no one else will if you don’t first do it yourself. I’m still working on this; my default still is to try to figure things out myself, do everything on my own, etc. But the best things that have happened to me have unquestionably been the result of asking.&lt;/li&gt;
+  &lt;li&gt;Experiment. I personally have found meditation and exercise as the most effective ways to manage mental health, but there are loads more options out there. Therapy, medication, writing, forcing yourself out of the house for a walk when you so badly don’t want to leave, etc. Everyone responds differently to different things, and I don’t pretend to know the answer, but I hope that if you’re going through a hard time you try something or a new combination of things to see what works for you. Experiment. And of course, and this goes back to #2, it never hurts to ask for help. You can even ask me, if you’d like. I’m still very much a work in progress, but have come a long way since my lowest point, and I’d love to help even one other person get through a hard time.
+For more resources and help, check out:
+National Institute of Mental&lt;/li&gt;
+&lt;/ol&gt;</content><summary type="html">Note: this was originally published as Goodbye New York or (The Unexpected Virtue of Quitting) on Medium on 4/20/16 here</summary></entry><entry><title type="html">Mural</title><link href="http://sbrks.github.io/wallmural/" rel="alternate" type="text/html" title="Mural" /><published>2016-02-15T00:00:00-08:00</published><updated>2016-02-15T00:00:00-08:00</updated><id>http://sbrks.github.io/wallmural</id><content type="html" xml:base="http://sbrks.github.io/wallmural/">&lt;p&gt;I decided to create Sol Lewitt’s &lt;a href=&quot;https://www.artsy.net/artwork/sol-lewitt-wall-drawing-number-797&quot;&gt;Wall Drawing 797&lt;/a&gt; on a big, empty wall in my new bedroom…&lt;/p&gt;
+
+&lt;h4 id=&quot;the-finished-product&quot;&gt;The finished product:&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i1.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5493-1.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;heres-what-i-did&quot;&gt;Here’s what I did.&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Prime the wall.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Two layers of white primer. No need for visuals here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Mockups in Sketch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I read that the draftsman who did the Mass Moca drawing was inspired by the surrounding Berkshires when he drew the initial black line. Similarly, I wanted to use my own surroundings–New York City–to create a skyline-like first line. From that, I knew the subsequent lines would evolve into curvier, more organic shapes. Here are some of my original mockups in Sketch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i0.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/wall_sketches.png&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Outline the wall&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy with the digital mockup, I drafted the first line on the wall with pencil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5217-1.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Colors!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With the all-important first line done, next up was drawing the colored lines. For these, I got some paint pens from a tiny paint shop in SoHo that was obviously intended for graffiti artists and folks much cooler than me. Nonetheless, the pens were perfect for the job. From here on out, it was a lot of attentive line drawing in alternating reds, yellows, and blues. The process was somewhat slow-going, but also meditative and really, really fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5237.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i2.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5247.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i1.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5488.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And after two long afternoons of work, the finished product:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i1.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5492.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i0.wp.com/www.stephbrooks.com/wp-content/uploads/2016/02/IMG_5501.jpg&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;</content><summary type="html">I decided to create Sol Lewitt’s Wall Drawing 797 on a big, empty wall in my new bedroom…</summary></entry><entry><title type="html">Links</title><link href="http://sbrks.github.io/misclinks/" rel="alternate" type="text/html" title="Links" /><published>2015-05-03T00:00:00-07:00</published><updated>2015-05-03T00:00:00-07:00</updated><id>http://sbrks.github.io/misclinks</id><content type="html" xml:base="http://sbrks.github.io/misclinks/">&lt;p&gt;My motivation to write original content for this blog waxes and wanes throughout the week. I always have ideas written down in notebooks or swirling around in my head. I often have a thought or idea or observe something interesting and think, “Hey this would make a great blog post. I’ll do that later tonight.” As is apparent with one scroll through my blog, I rarely follow through. As a stopgap until I conjure up some more motivation, here are some links to original content written elsewhere on the internets by people evidently more motivated than me:&lt;/p&gt;
+
+&lt;h3 id=&quot;the-days-are-long-but-the-decades-are-short&quot;&gt;The Days Are Long But the Decades Are Short&lt;/h3&gt;
+
+&lt;p&gt;Some very useful, actionable, meaningful reflections written by Sam Altman, President of Y Combinator (a very well-known and successful startup incubator), upon turning 30. I was going to pick out a few of my favorites, but really every point he makes is great. Read them all. I saved the link to my bookmarks bar and will probably be turning to it when I need some inspiration or motivation (for this blog, even!)&lt;/p&gt;
+
+&lt;h3 id=&quot;video-excerpt-from-david-foster-wallaces-2005-commencement-speech&quot;&gt;Video excerpt from David Foster Wallace’s 2005 Commencement Speech&lt;/h3&gt;
+
+&lt;p&gt;Many parts of this speech have become well-ingrained in our cultural milieu by now, and yet I still get something meaningful out of each and every listen/read. Real education means having a choice, a freedom in what you think. DFW says it better: “You get to consciously decide what has meaning and what doesn’t. That is real freedom.” This is something I strive to think about often. Living proof of this idea is beautifully illustrated in Viktor Frankl’s “Man’s Search for Meaning,” which I posted a little bit about last month. The strongest and most courageous people I know embody this philosophy. Writes Frankl, “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”&lt;/p&gt;
+
+&lt;h3 id=&quot;workflowy-the-previously-alluded-to-to-do-list-manager-ive-been-jonesing-hard-on-lately&quot;&gt;Workflowy, the previously alluded to to-do list manager I’ve been jonesing hard on lately.&lt;/h3&gt;
+
+&lt;p&gt;The UI is so clean and minimalist, it’s very effective at making me want to get things done, it’s fast, it automatically syncs across all devices, and it’s as scalable as you want it to be. My “TO DO” is my most used list, but as you can see below, I have other lists like “Want” and “Vision” that expand out into outline form. Click the blurry thumbnail to have a better visual of my approaching-OCD list-making system. As you can see, I have today expanded and all the other days I’ve tracked minimized; this is part of Workflowy’s beauty:
+Screen Shot 2015-05-03 at 7.30.51 PM&lt;/p&gt;
+
+&lt;h3 id=&quot;essentialism-the-disciplined-pursuit-of-less&quot;&gt;Essentialism: The Disciplined Pursuit of Less&lt;/h3&gt;
+
+&lt;p&gt;My mom bought me this book when I was going through a particularly difficult time last year. As is characteristic of difficult times, I wasn’t reading much (though the question of which was the cause and which the effect are unclear). I finally got around to reading this last month.&lt;/p&gt;
+
+&lt;p&gt;The case for minimalism has always compelled me, and I try to enact its ideas through the possessions I own and how I organize my space. “Essentialism” pushes these ideas further, and makes a convincing case for cutting back the parts of your life (not just physical possessions, but the choices you make, the events you participate in, the work you do, the people you spend time with) that you do not consider essential. The philosophy can be as unrelenting or as forgiving as you want it to be, but the main point is that you should give careful consideration to the stuff–both physical and immaterial–that you fill your life with. More time and enjoyment will result.&lt;/p&gt;</content><summary type="html">My motivation to write original content for this blog waxes and wanes throughout the week. I always have ideas written down in notebooks or swirling around in my head. I often have a thought or idea or observe something interesting and think, “Hey this would make a great blog post. I’ll do that later tonight.” As is apparent with one scroll through my blog, I rarely follow through. As a stopgap until I conjure up some more motivation, here are some links to original content written elsewhere on the internets by people evidently more motivated than me:</summary></entry></feed>

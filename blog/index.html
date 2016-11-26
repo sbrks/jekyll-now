@@ -1,0 +1,584 @@
+<<<<<<< HEAD
+---
+layout: page
+---
+
+<div class="post__back">
+=======
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    
+        <title>SSB.nyc</title>
+    
+
+    <meta name="description" content="Writer & Web Developer">
+
+    
+
+    <link rel="icon" href="/assets/img/favicon.ico">
+    <link rel="stylesheet" 
+href="https://fonts.googleapis.com/css?family=Inconsolata:400,700">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <article class="page">
+
+  <h1></h1>
+
+  <div class="entry">
+    <div class="post__back">
+>>>>>>> 3e41015014edf262845200423f3c81b21e128d7d
+    	<a href="/">&lt;-- Home</a>
+</div>
+<br><br>
+
+<div class="blog">
+	<h1>Blog</h1>
+    <ul>
+<<<<<<< HEAD
+        {% for post in site.posts %}
+        <li>
+        	<a href="{{ post.url }}">{{ post.title }}</a><br>
+            {% if post.tags %} Tags: 
+                {% for tag in post.tags %}
+                    <a href="{{ site.baseurl }}{{ blog }}#{{ tag | slugify }}" style="font-size: 14px" class="post-tag">{{ tag }}</a> .
+                {% endfor %}
+            {% endif %}
+
+            {{ post.excerpt }}
+        </li><br>
+        {% endfor %}
+    </ul>
+</div>
+=======
+        
+        <li>
+        	<a href="/words/">Words</a><br>
+             Tags: 
+                
+                    <a href="#words" style="font-size: 14px" class="post-tag">words</a> .
+                
+                    <a href="#language" style="font-size: 14px" class="post-tag">language</a> .
+                
+                    <a href="#art" style="font-size: 14px" class="post-tag">art</a> .
+                
+            
+
+            <p>Donald Barthelme on words</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/genderandai/">AI and Gender</a><br>
+             Tags: 
+                
+                    <a href="#ai" style="font-size: 14px" class="post-tag">ai</a> .
+                
+                    <a href="#gender" style="font-size: 14px" class="post-tag">gender</a> .
+                
+                    <a href="#future" style="font-size: 14px" class="post-tag">future</a> .
+                
+                    <a href="#intelligent-assistants" style="font-size: 14px" class="post-tag">intelligent assistants</a> .
+                
+            
+
+            <p>DRAFT</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/pfnp/">Programming for Non-Programmers</a><br>
+             Tags: 
+                
+                    <a href="#command-line" style="font-size: 14px" class="post-tag">command line</a> .
+                
+                    <a href="#terminal" style="font-size: 14px" class="post-tag">terminal</a> .
+                
+                    <a href="#code" style="font-size: 14px" class="post-tag">code</a> .
+                
+                    <a href="#programming" style="font-size: 14px" class="post-tag">programming</a> .
+                
+                    <a href="#work" style="font-size: 14px" class="post-tag">work</a> .
+                
+            
+
+            <p>Since learning to code, I’ve encountered dozens of concepts and tools that make the job of coding easier and more effective. But many of these concepts and tools could also be used by non-programmers or to achieve non-programming tasks, and the only reason they aren’t is because a made up wall has been built up around them, and they are falsely considered within the domain of only the “technical” few.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/jekyll/">Wordpress to Jekyll</a><br>
+             Tags: 
+                
+                    <a href="#code" style="font-size: 14px" class="post-tag">code</a> .
+                
+                    <a href="#blogging" style="font-size: 14px" class="post-tag">blogging</a> .
+                
+            
+
+            <h1 id="how-to-bring-your-wordpress-site-to-jekyll">How To Bring Your Wordpress Site to Jekyll</h1>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/navigatingstuckness/">Navigating Stuckness</a><br>
+             Tags: 
+                
+                    <a href="#advice" style="font-size: 14px" class="post-tag">advice</a> .
+                
+                    <a href="#art" style="font-size: 14px" class="post-tag">art</a> .
+                
+                    <a href="#code" style="font-size: 14px" class="post-tag">code</a> .
+                
+                    <a href="#work" style="font-size: 14px" class="post-tag">work</a> .
+                
+            
+
+            <p>This is from Jonathan Harris’s insightful, instructive, inspirational essay, <a href="http://transom.org/2014/jonathan-harris/">Navigating Unstuckness</a>. I view it as a guiding principle for my own life, in the decisions I choose to make and the people and things I give my attention to. Like Jonathan, when I was ten I was writing stories and drawing pictures. In a way, this blog is my way to get back to what I was doing then.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/bigo/">Big O</a><br>
+             Tags: 
+                
+            
+
+            <p>In computer science, Big O notation (also known as Time/Space Complexity) is used to “classify algorithms by how they respond to changes in input size, such as how the processing time of an algorithm changes as the problem size becomes extremely large.” In other words, Big O is a measure to indicate how efficiently an algorithm performs in its worse case as the data it processes grows. An algorithm that performs well (i.e. quickly, with minimal space requirements) under one set of conditions may perform differently (i.e. worse) under a different set of conditions. Big O attempts to quantify that difference.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/decisionmaking/">Hackathons and Decision Making</a><br>
+             Tags: 
+                
+            
+
+            <p>I attended an all women’s hackathon at Dev Bootcamp this past weekend. I decided to attend the day before the event, and offered to volunteer during the event so I could do it for free. When it started, I decided to pitch an idea. Then I decided to form a team of fellow engineers who were interested in my idea. I decided not to turn anyone away: anyone who was interested in the idea could join my team. I decided to lead this team in such a way that everyone could contribute, no matter their skill level. I decided to collaborate and delegate work based on my teammates’ individual strengths. I decided to build our project in Rails. I decided to teach how Rails works in the middle of the day, and then I decided to scrap that lesson when most of my teammates started down a time-consuming rabbit hole of dependency installation (Git, Homebrew, RVM, Ruby, Rails, and so on) just to get the project running locally. I decided that time could be better spent elsewhere. I decided what features to focus on and get right for our demo, and which features to table until later. I decided to demo our project in front of a panel of judges and crowd of ~120 at 11 o’clock on a Saturday night.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/goodbyenewyork/">Goodbye New York</a><br>
+             Tags: 
+                
+            
+
+            <p>Note: this was originally published as <strong>Goodbye New York or (The Unexpected Virtue of Quitting)</strong> on Medium on 4/20/16 <a href="https://medium.com/@sbrks/goodbye-new-york-or-the-unexpected-virtue-of-quitting-7b107c457414#.3bqt3uldi">here</a></p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/wallmural/">Mural</a><br>
+             Tags: 
+                
+            
+
+            <p>I decided to create Sol Lewitt’s <a href="https://www.artsy.net/artwork/sol-lewitt-wall-drawing-number-797">Wall Drawing 797</a> on a big, empty wall in my new bedroom…</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/misclinks/">Links</a><br>
+             Tags: 
+                
+            
+
+            <p>My motivation to write original content for this blog waxes and wanes throughout the week. I always have ideas written down in notebooks or swirling around in my head. I often have a thought or idea or observe something interesting and think, “Hey this would make a great blog post. I’ll do that later tonight.” As is apparent with one scroll through my blog, I rarely follow through. As a stopgap until I conjure up some more motivation, here are some links to original content written elsewhere on the internets by people evidently more motivated than me:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/aprilreading/">April 2015 Reading List</a><br>
+             Tags: 
+                
+            
+
+            <p>What I read in April:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/somerules/">Rules for When You Need Them</a><br>
+             Tags: 
+                
+            
+
+            <p>I wrote these in my notebook this morning, but for posterity.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/bikecommute/">Bike Commute</a><br>
+             Tags: 
+                
+            
+
+            <p>In spite of it being Monday morning, I’m feeling super giddy. I’m lucky to work with a really awesome guy who is as into the idea of biking to work as I am. We’re going to work on a space in the office to store the bikes safely, since there isn’t really one at the moment. So that means I can start riding my bike to work! It’s a 7.5 mile ride each way and should take about 45 minutes. It’ll also obviate the need to workout after work! Something I often dread, even though I love, even when I hate.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/travelnerd/">Travel</a><br>
+             Tags: 
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+                    <a href="#airfare" style="font-size: 14px" class="post-tag">airfare</a> .
+                
+                    <a href="#logistics" style="font-size: 14px" class="post-tag">logistics</a> .
+                
+            
+
+            <p>I have been seriously nerding out on travel and all its intricacies the past couple weeks. Other than a trip next week to visit my family in Houston, I don’t have any trips planned, but I still find it fascinating. I’ve learned a lot about frequent flyer miles, travel hacking, how to find the cheapest airfare, the history of commercial air travel, hidden city ticketing, how airlines set ticket prices, the different types of airplanes, and a whole lot more. I read Cockpit Confidential in about a day, and now I’m in the middle of The Travel Detective, for which I had low expectations (because I mean, look at that cover), but turns out is pure gold. I stumbled upon it in the travel section at the Brooklyn Library. I also picked up The Best American Travel Writing (2011 edition) and The Art of Travel by Alain de Botton (I highly recommend his Architecture of Happiness, which isn’t a self-help book like the title suggests but is actually about architecture and the impact of design and the built environment on our psyche, which is clearly my cup of tea).</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/marchreading/">March 2015 Reading List</a><br>
+             Tags: 
+                
+                    <a href="#reading" style="font-size: 14px" class="post-tag">reading</a> .
+                
+                    <a href="#creativity" style="font-size: 14px" class="post-tag">creativity</a> .
+                
+            
+
+            <p>I’ve spent a whole lot more time reading/consuming than writing/creating this past month. I’ve been keeping up with my morning pages, for the most part, but beyond that, I’ve been feeling a little creatively blocked. So, when pressed for content, what better way to churn out material than to compose a list, right? So here’s what I’ve read this past month, in chronological order:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/ineffable/">Ineffable</a><br>
+             Tags: 
+                
+                    <a href="#music" style="font-size: 14px" class="post-tag">music</a> .
+                
+                    <a href="#language" style="font-size: 14px" class="post-tag">language</a> .
+                
+            
+
+            <blockquote>
+  <p>Let sounds be themselves rather than vehicles for man-made theories or expression of human sentiments.
+<strong>– John Cage</strong></p>
+</blockquote>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/icansee/">I Can See</a><br>
+             Tags: 
+                
+                    <a href="#awareness" style="font-size: 14px" class="post-tag">awareness</a> .
+                
+            
+
+            <p>Something strange and awesome happened to me the other night on the walk home from the subway to my apartment. There was something different about my surroundings. The most obvious and quantifiable difference was the temperature; for the first time this year, it felt warm. It was around 9:15 pm, so it was dark, but having just been Daylight Savings, there was still a lightness about it. I crossed Franklin Ave. and rounded the corner, heading west on Union Street as a small brigade of police officers passed me by.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/stoicism/">Dig Within</a><br>
+             Tags: 
+                
+                    <a href="#reading" style="font-size: 14px" class="post-tag">reading</a> .
+                
+                    <a href="#books" style="font-size: 14px" class="post-tag">books</a> .
+                
+                    <a href="#stoicism" style="font-size: 14px" class="post-tag">stoicism</a> .
+                
+            
+
+            <p>I just finished “The Obstacle is the Way,” a fascinating and informative read on how to apply Stoic philosophy to everyday life and its challenges. It’s a great introduction to Stoicism and got me interested in digging deeper into the work of the Stoics. I’ve been intermittently reading Marcus Aurelius’s Meditations (intermittently because I find it to be easy to pick up and put down at choice moments in life without feeling lost, and I’m guaranteed to render something useful out of it) and found some gems I really love, included below. I want to print these out and plaster them on my wall:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/gooddesign/">Good Design is Everywhere</a><br>
+             Tags: 
+                
+                    <a href="#design" style="font-size: 14px" class="post-tag">design</a> .
+                
+                    <a href="#stuff" style="font-size: 14px" class="post-tag">stuff</a> .
+                
+            
+
+            <p>Yesterday after work I was walking to the downtown 6 getting soaked and splashed by the wintry mix of the day. This should have been unpleasant: it was cold and wet and dreary out, it was rush hour, and I just wanted to get to the gym. It wasn’t, though. And I have good design to thank for that.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/texperiments/">Texperiments</a><br>
+             Tags: 
+                
+                    <a href="#tech" style="font-size: 14px" class="post-tag">tech</a> .
+                
+                    <a href="#apple" style="font-size: 14px" class="post-tag">apple</a> .
+                
+            
+
+            <p>I have a bad case of (self-diagnosed) tech ADD. Even when I love some device, and it’s working great for me (read: my Macbrook Pro), I still want to try what else is out there. I’ve experimented with PC’s (Lenovo and Samsung) and I’ve experimented with the Macbook Air. Nothing has compared to my Macbrook Pro Retina 15″ in any regard. This affliction applies to other devices as well. For listening to music, I’ve tried my iPhone, an iPod Nano, iPod Shuffle, and Sansa Sport Clip (which, for ~$40, tiny, and clippable, I highly recommend for workouts). I can easily get drawn in to the newest and shiniest. I don’t consider myself materialistic in any other way except this. And maybe bags.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/slow/">Slow</a><br>
+             Tags: 
+                
+                    <a href="#running" style="font-size: 14px" class="post-tag">running</a> .
+                
+            
+
+            <p>I used to run pretty seriously (my definition of serious: following training programs and running a few half marathons), and then I used to run less seriously (running a few miles, a few times a week), and then I stopped running altogether (no miles, none whatsoever). I gave myself permission to stop and so I did. “It’s tough on the joints,” I’d say. “There are more efficient ways to get in shape,” I’d say. But now I say nonsense. My joints feel fine, and it’s been a great way—for me—to get in shape and feel both physically and mentally better. So I’m trying to get back into it, because as much as I love cycling and rowing, there is no better exercise I can regularly perform to get that full-body feel-goodness. And no, burpees hurt too much, therefore they don’t count.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/scandinavianlit/">Scandinavian Literature</a><br>
+             Tags: 
+                
+                    <a href="#scandinavia" style="font-size: 14px" class="post-tag">scandinavia</a> .
+                
+                    <a href="#books" style="font-size: 14px" class="post-tag">books</a> .
+                
+                    <a href="#reading" style="font-size: 14px" class="post-tag">reading</a> .
+                
+            
+
+            <p>Since I casually gleaned over the Comp Lit section of my course catalog senior year, where I noticed but didn’t give much thought to a class offering on Scandinavian literature, my radar has sharpened on this particular, peculiar breed of writing. The class was called COMP 212 (S)Nordic Lights: Literary and Cultural Diversity in Modern Scandinavia. Here is a clip from the course description:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/anonuevo/">Año Nuevo</a><br>
+             Tags: 
+                
+                    <a href="#bogota" style="font-size: 14px" class="post-tag">bogota</a> .
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+            
+
+            <p>Que pena. I’ve been horrible at keeping this thing going, and for the wrong reasons. I have the time, the pictures, and the thoughts, but as soon as I get behind, I’m faced with the too overwhelming task of editing photos, selecting the best ones, uploading them slowly and individually, and then writing about them. So a week passes and the thought of undergoing this process frightens me, so I let another week pass and the cycle continues. But that is not to mean I don’t think about writing (I do all the time, every minute of every day), and I haven’t forgotten about the few of you who read this thing.  I even had a dream the other night that I renamed my blog “One Post a Week.” On its face that doesn’t sound too ambitious, but in truth it’s still woefully inaccurate of how frequently I’ve been checking in. So, I’m going to take that dream to portend one of my New Year’s resolutions, and will strive to keep at such a (not so) rapid clip.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/movimiento/">Movimiento</a><br>
+             Tags: 
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+                    <a href="#bogota" style="font-size: 14px" class="post-tag">bogota</a> .
+                
+            
+
+            <p>Moving on, settling down
+This week has been a whirlwind. After saying goodbye to friends in Salento, taking a couple days off in Armenia, and then embarking on the 9-hour bus ride to Bogota, I feel like the general trajectory of my time here has completely shifted. I initially didn’t want to go to Bogota. I had heard only the bad things, and that combined with a day-long bus ride in the opposite direction of where I was headed (southwards, to Ecuador), produced a real sense of dread in me. Finally, after putting it off for three mornings, I sucked it up, bought the bus ticket, and headed eastwards, thinking that through all my time in Colombia and all my raving about it, I should at least check out its capital.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/fotos2/">Fotos2</a><br>
+             Tags: 
+                
+            
+
+            <p>Faithful readers,</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/fotos/">Fotos</a><br>
+             Tags: 
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+                    <a href="#coffee" style="font-size: 14px" class="post-tag">coffee</a> .
+                
+                    <a href="#photography" style="font-size: 14px" class="post-tag">photography</a> .
+                
+            
+
+            <p>More photos! Presented chronologically:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/piensas/">Piensitas</a><br>
+             Tags: 
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+                    <a href="#medellin" style="font-size: 14px" class="post-tag">medellin</a> .
+                
+            
+
+            <p>A Few Observations</p>
+<ol>
+  <li>Time doesn’t mean much here.</li>
+</ol>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/timeabroad/">Time Abroad</a><br>
+             Tags: 
+                
+                    <a href="#colombia" style="font-size: 14px" class="post-tag">colombia</a> .
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+                    <a href="#time" style="font-size: 14px" class="post-tag">time</a> .
+                
+            
+
+            <p>I’ve been here eleven days, but it feels like eleven months. Time passes slowly here. Not in that any given hour or block of time feels particularly long. But in each day I manage to fit in many different things, all of them brand new to me, and still manage to have a lot of time to relax, read, and sleep. By “different things,” I don’t necessarily mean sight-seeing or some other fun activity. Sometimes it is that, but usually it’s the simple act of say, buying groceries, finding a bookstore, making a phone call. Even the mundane things here have a new and unfamiliar aspect to them, and unlike at home, where I can go about my day without giving it much thought, doing the same thing here requires 100% of my mental capacity. Being so conscious of every little thing slows time down. So, if anyone is feeling like their life is moving too quickly, I suggest dropping everything and moving to a foreign country.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/masmedell%C3%ADn/">Más Medellín</a><br>
+             Tags: 
+                
+                    <a href="#medellín" style="font-size: 14px" class="post-tag">medellín</a> .
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+            
+
+            <p>Medellín: Mountains, Metrocables, Museums and more</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/masmedellin/">Más Medellín</a><br>
+             Tags: 
+                
+                    <a href="#medellín" style="font-size: 14px" class="post-tag">medellín</a> .
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+            
+
+            <p>Medellín: Mountains, Metrocables, Museums and more</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/fotografia/">Fotografía</a><br>
+             Tags: 
+                
+                    <a href="#photography" style="font-size: 14px" class="post-tag">photography</a> .
+                
+                    <a href="#colombia" style="font-size: 14px" class="post-tag">colombia</a> .
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+            
+
+            <p>Presenting you with the first few photos of Colombia that I’ve (surreptitiously) taken with my iPhone. I hope to break out my DSLR soon enough, but for now, just wanted to quickly give you an idea of the things I’ve been seeing so far:</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/medellin/">Medellín</a><br>
+             Tags: 
+                
+                    <a href="#colombia" style="font-size: 14px" class="post-tag">colombia</a> .
+                
+                    <a href="#medellín" style="font-size: 14px" class="post-tag">medellín</a> .
+                
+                    <a href="#travel" style="font-size: 14px" class="post-tag">travel</a> .
+                
+            
+
+            <p>I arrived in Medellín, Colombia yesterday, and have spent the past 30 or so hours just trying to take everything in. I’ve tried (with an approximate 65% success rate) to participate in the daily activities of a Colombian. I went to a supermarket and stocked up on groceries. I went out to dinner, took the metro, and worked out at a gym this afternoon. After that, I wandered about and went to a soccer game in El Estadio, an incredible sports complex with the best views I’ve experienced thus far–beautiful mountains in view in every direction you look. Basically, I’ve been trying to get a handle on how one conducts life in a South American city. It could be because I haven’t started working yet, or because I came straight from New York, but things move at a much more leisurely pace here. I’m not quite accustomed to that yet–still trying to cross the street with a blinking red light, still trying to schedule every aspect of my day, still obsessing over maximizing efficiency when going about my errands–but I think I’ll eventually adjust.</p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/prospectheights/">Black History Month in Brooklyn</a><br>
+             Tags: 
+                
+                    <a href="#patch" style="font-size: 14px" class="post-tag">patch</a> .
+                
+                    <a href="#nyc" style="font-size: 14px" class="post-tag">nyc</a> .
+                
+                    <a href="#prospect-heights" style="font-size: 14px" class="post-tag">prospect heights</a> .
+                
+            
+
+            <p>Note: this was originally published for Prospect Heights Patch <a href="http://patch.com/new-york/prospectheights/prospect-heights-celebrates-black-history-month-with-660d3d272e">here</a></p>
+
+
+        </li><br>
+        
+        <li>
+        	<a href="/nytrecipes/">A History of NYT Recipes</a><br>
+             Tags: 
+                
+                    <a href="#journalism" style="font-size: 14px" class="post-tag">journalism</a> .
+                
+                    <a href="#nyc" style="font-size: 14px" class="post-tag">nyc</a> .
+                
+                    <a href="#food" style="font-size: 14px" class="post-tag">food</a> .
+                
+            
+
+            <p><strong><em>Note: this was originally published for the Prospect Heights Patch news site <a href="http://patch.com/new-york/prospectheights/150-years-of-new-york-times-recipes-frank-bruni-and-ae55840fec5">here</a></em></strong></p>
+
+
+        </li><br>
+        
+    </ul>
+</div>
+  </div>
+</article>
+
+    </div>
+
+</body>
+
+</html>
+>>>>>>> 3e41015014edf262845200423f3c81b21e128d7d
